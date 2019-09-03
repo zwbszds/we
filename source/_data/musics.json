@@ -1,0 +1,16 @@
+[{
+	"name": "好想你",
+	"artist": "李雪莱",
+	"url": "/medias/music/music1.mp3",
+	"cover": "/medias/music/musicCover1.jpg"
+},{
+	"name": "Sóra",
+	"artist": "Shanti Snyder",
+	"url": "/medias/music/music2.flac",
+	"cover": "/medias/music/musicCover2.jpg"
+},{
+	"name": "Without You I Am Dying",
+	"artist": "Painless Destiny",
+	"url": "/medias/music/music3.mp3",
+	"cover": "/medias/music/musicCover3.jpg"
+}]
